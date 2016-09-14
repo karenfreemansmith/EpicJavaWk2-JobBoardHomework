@@ -7,6 +7,15 @@ by [Karen Freeman-Smith](https://github.com/karenfreemansmith)
 A program to list job postings
 
 ### Specifications
+Store Job information:
+* Job Title
+* Company Name
+* Expected Salary (range)
+* Job Description
+* Requirements (required or preferred)
+* Type (full-time/part-time, permanent/temporary/contract, etc)
+Sort Resumes
+Filter/Search Resumes
 
 ## Setup/Installation
 * Clone directory
