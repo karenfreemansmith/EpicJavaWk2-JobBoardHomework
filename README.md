@@ -1,10 +1,10 @@
-# Project Title
+# Job Board
 Version 0.0.0: September 13, 2016
 
 by [Karen Freeman-Smith](https://github.com/karenfreemansmith)
 
 ## Description
-A program to ...
+A program to list job postings
 
 ### Specifications
 
